@@ -474,10 +474,10 @@ This project is licensed under the MIT License.
 If you use this library in your research, please cite:
 
 ```bibtex
-@software{docparser2024,
+@software{docparser2025,
   title={DocParser: Multi-Engine VLM-Based OCR Framework},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/docparser}
+  author={Saurav Kumar},
+  year={2025},
+  url={https://github.com/Crispae/DocParser}
 }
 ```
